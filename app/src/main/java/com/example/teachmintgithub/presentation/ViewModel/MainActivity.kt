@@ -1,7 +1,8 @@
-package com.example.teachmintgithub
+package com.example.teachmintgithub.presentation.ViewModel
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.teachmintgithub.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
