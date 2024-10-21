@@ -1,4 +1,4 @@
-package com.example.teachmintgithub.presentation.ViewModel
+package com.example.teachmintgithub.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
