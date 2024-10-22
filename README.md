@@ -31,7 +31,7 @@
 - **Coroutines:** For efficient asynchronous programming.
 - **Room:** To store data locally and allow offline viewing of the first 15 search results.
 - **MVVM Architecture:** For clean, maintainable code structure.
-- **JetPack Libraries:** Including LiveData, ViewModel, and more for robust app architecture.
+- **JetPack Libraries:** Including ViewModel, and more for robust app architecture.
 - **Repository Pattern:** Ensures separation of data handling, making the code more modular and testable.
 
 ## How It Works
