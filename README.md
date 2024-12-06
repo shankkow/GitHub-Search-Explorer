@@ -1,5 +1,7 @@
 # GitHub Repository Explorer
 
+## Clean Architecture: MVVM, Repo Pattern, ROOM, Caching, Coroutines, HILT, ViewModel
+
 ## Description
 
 **GitHub Repository Explorer** is a Kotlin-based Android application that allows users to search and explore GitHub repositories using the GitHub API. Users can view details of selected repositories, see information about contributors, and explore repositories tagged to the selected contributors. The application is built using modern Android development practices, leveraging Coroutines, Room, MVVM, JetPack libraries, and the Repository pattern. Bonus points for implementing parts of the app with Jetpack Compose!
