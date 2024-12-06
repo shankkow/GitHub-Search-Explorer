@@ -60,3 +60,8 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/shankkow/Teachmint-Github-Assignment.git
+
+![Screenshot_2024-12-06-13-45-30-175_com example assignmenttrial1](https://github.com/user-attachments/assets/b7b63aba-a4b6-4bc1-a400-f01664897c29)
+![Screenshot_2024-12-06-13-45-43-728_com example assignmenttrial1](https://github.com/user-attachments/assets/d74c7bc5-87d8-4756-b18a-e91464ae8b7a)
+
+   
