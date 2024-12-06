@@ -1,6 +1,6 @@
 # GitHub Repository Explorer
 
-## Clean Architecture: MVVM, Repo Pattern, ROOM, Caching, Coroutines, HILT, ViewModel
+## Clean Architecture: MVVM, Repo Pattern, ROOM, Caching, Coroutines, HILT, ViewModel, Pagination,  RecyclerView, WebView
 
 ## Description
 
